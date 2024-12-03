@@ -8,4 +8,4 @@ Raku Image Viewer is a software I developed to make handling images more conveni
 * Optimized for digital comics and artbooks, allowing multiple images to be displayed at once for a seamless reading experience.
 * Supports animated images such as aPNG and WebP.
 * Supports image formats commonly exported from Blender, such as PNG, JPEG, OpenEXR, and TIFF.
-* Supports Exif data for AI-generated images from tools like ComfyUI, Stable Diffusion (SD), and more.
+* Supports Exif data for AI-generated images from tools like ComfyUI, Stable Diffusion and more.
